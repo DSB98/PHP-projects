@@ -1,0 +1,122 @@
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_dbconnect.php on line 6
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 28
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 29
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 156
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 157
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 170
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 171
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 205
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 206
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 236
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 237
+[03-May-2021 12:33:23 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 61
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 62
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 94
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 95
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 145
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 146
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 159
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 160
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 187
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 188
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 214
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 215
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 314
+[03-May-2021 12:33:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/admin/index.php on line 315
+[08-May-2021 07:48:12 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 07:48:34 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 08:21:46 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:02:43 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:07:54 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:08:52 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:09:00 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:11:26 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:11:42 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:12:48 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:13:02 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:32:00 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:38:05 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:40:35 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:44:20 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:44:37 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:44:41 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:46:17 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:49:24 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:51:02 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:51:32 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:52:33 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 14:59:38 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:00:59 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:06:28 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:16:29 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:18:16 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:19:24 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:21:40 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:27:24 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:39:04 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 15:39:52 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:36:29 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:38:09 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:39:14 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:39:22 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:40:19 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:41:05 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:42:28 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:42:59 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:44:12 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:44:26 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:47:00 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:47:48 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:48:04 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:48:09 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:49:16 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:49:25 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:50:08 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:52:31 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:55:40 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:57:08 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:57:33 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:58:44 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 17:59:13 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:02:44 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:02:48 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:02:55 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:03:20 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:03:22 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:04:08 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:04:20 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:07:17 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:09:22 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:09:25 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:10:27 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:11:12 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:12:13 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:13:03 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:15:56 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[08-May-2021 18:16:04 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 03:22:50 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 03:29:31 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 03:29:58 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 03:30:02 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 03:34:00 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 04:20:21 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 04:20:27 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 04:35:22 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 05:08:31 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 05:17:33 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 05:20:24 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 05:20:46 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 05:21:29 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 05:42:47 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 06:07:38 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 06:08:03 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 06:08:27 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 06:08:31 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 07:24:37 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 07:31:09 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 07:31:19 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 07:53:39 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 08:02:24 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[09-May-2021 08:32:47 UTC] PHP Notice:  Undefined variable: status in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_requirementForm.php on line 268
+[10-May-2021 17:59:04 UTC] PHP Notice:  Undefined index: address in /home/u789522342/domains/ymhelpline.online/public_html/admin/viewDonors.php on line 45

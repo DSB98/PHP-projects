@@ -1,0 +1,17 @@
+[05-May-2021 14:13:59 UTC] PHP Notice:  Array to string conversion in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[05-May-2021 14:13:59 UTC] PHP Notice:  Undefined variable: Array in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[05-May-2021 14:30:14 UTC] PHP Notice:  Array to string conversion in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[05-May-2021 14:30:14 UTC] PHP Notice:  Undefined variable: Array in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[06-May-2021 15:52:52 UTC] PHP Notice:  Array to string conversion in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[06-May-2021 15:52:52 UTC] PHP Notice:  Undefined variable: Array in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[06-May-2021 15:52:52 UTC] PHP Notice:  Undefined index: city in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 16
+[06-May-2021 15:53:56 UTC] PHP Notice:  Array to string conversion in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[06-May-2021 15:53:56 UTC] PHP Notice:  Undefined variable: Array in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[06-May-2021 15:53:56 UTC] PHP Notice:  Undefined index: city in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 16
+[06-May-2021 15:54:31 UTC] PHP Notice:  Array to string conversion in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[06-May-2021 15:54:31 UTC] PHP Notice:  Undefined variable: Array in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 12
+[06-May-2021 15:54:31 UTC] PHP Notice:  Undefined index: city in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_addRequirementControl.php on line 16
+[07-May-2021 16:07:38 UTC] PHP Notice:  Undefined index: blood in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_signupControl.php on line 21
+[07-May-2021 16:07:38 UTC] PHP Notice:  Undefined index: check in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_signupControl.php on line 22
+[09-May-2021 05:17:32 UTC] PHP Notice:  Undefined index: check in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_signupControl.php on line 22
+[11-May-2021 17:41:21 UTC] PHP Notice:  Undefined index: check in /home/u789522342/domains/ymhelpline.online/public_html/admin/partials/_signupControl.php on line 22

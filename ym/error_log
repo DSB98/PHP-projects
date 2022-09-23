@@ -1,0 +1,157 @@
+[03-May-2021 11:07:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:07:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:07:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 11:10:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:10:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:10:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 11:11:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:11:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:11:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 11:24:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:24:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:24:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 11:33:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:33:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:33:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 11:36:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:36:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:36:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 11:41:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:41:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:41:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 11:41:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 11:41:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 11:41:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 12:22:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rootYM'@'localhost' (using password: YES) in /home/u789522342/domains/ymhelpline.online/public_html/partials/_dbconnect.php on line 6
+[03-May-2021 12:22:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 115
+[03-May-2021 12:22:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/index.php on line 116
+[03-May-2021 15:28:28 UTC] PHP Notice:  Undefined variable: count in /home/u789522342/domains/ymhelpline.online/public_html/donaorList.php on line 126
+[07-May-2021 07:41:03 UTC] PHP Notice:  Undefined variable: count in /home/u789522342/domains/ymhelpline.online/public_html/donaorList.php on line 126
+[07-May-2021 09:34:17 UTC] PHP Notice:  Undefined index: user_id in /home/u789522342/domains/ymhelpline.online/public_html/partials/_addRequirement.php on line 80
+[07-May-2021 10:27:13 UTC] PHP Notice:  Undefined index: user_id in /home/u789522342/domains/ymhelpline.online/public_html/partials/_addRequirement.php on line 80
+[07-May-2021 10:51:19 UTC] PHP Notice:  Undefined index: user_id in /home/u789522342/domains/ymhelpline.online/public_html/partials/_addRequirement.php on line 80
+[10-May-2021 16:10:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/donaorList.php on line 98
+[11-May-2021 08:36:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 2
+[11-May-2021 08:42:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 2
+[11-May-2021 08:43:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 2
+[11-May-2021 08:43:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 425
+[11-May-2021 08:43:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 2
+[11-May-2021 08:43:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 428
+[11-May-2021 08:45:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 2
+[11-May-2021 11:39:59 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 10
+[11-May-2021 11:39:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 12
+[11-May-2021 11:40:21 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 10
+[11-May-2021 11:40:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 12
+[11-May-2021 12:55:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u789522342/domains/ymhelpline.online/public_html/partials/_signupModal.php:1) in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 527
+[11-May-2021 12:57:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u789522342/domains/ymhelpline.online/public_html/partials/_signupModal.php:1) in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 12
+[11-May-2021 12:57:08 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 14
+[11-May-2021 12:57:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 16
+[11-May-2021 12:58:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u789522342/domains/ymhelpline.online/public_html/partials/_signupModal.php:1) in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 12
+[11-May-2021 12:58:48 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 14
+[11-May-2021 12:58:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 16
+[11-May-2021 13:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u789522342/domains/ymhelpline.online/public_html/partials/_signupModal.php:1) in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 12
+[11-May-2021 13:03:21 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 14
+[11-May-2021 13:03:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 16
+[11-May-2021 13:03:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u789522342/domains/ymhelpline.online/public_html/partials/_signupModal.php:1) in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 12
+[11-May-2021 13:03:43 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 14
+[11-May-2021 13:03:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 16
+[11-May-2021 13:04:41 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 11
+[11-May-2021 13:04:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 13
+[12-May-2021 01:16:15 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 11
+[12-May-2021 01:16:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u789522342/domains/ymhelpline.online/public_html/profile.php on line 13
+[13-May-2021 04:48:28 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:48:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:48:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 04:48:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u789522342/domains/ymhelpline.online/public_html/changePassword.php on line 3
+[13-May-2021 04:48:46 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:48:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:48:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 04:48:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u789522342/domains/ymhelpline.online/public_html/changePassword.php on line 3
+[13-May-2021 04:52:02 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:52:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:52:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 04:52:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u789522342/domains/ymhelpline.online/public_html/changePassword.php on line 3
+[13-May-2021 04:52:10 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:52:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:52:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 04:52:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u789522342/domains/ymhelpline.online/public_html/changePassword.php on line 3
+[13-May-2021 04:56:57 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:56:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:56:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 04:57:34 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:57:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:57:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 04:59:16 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:59:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 04:59:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:00:17 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:00:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:00:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:00:35 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:00:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:00:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:07:15 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:07:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:07:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:08:11 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:08:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:08:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:08:46 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:08:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:08:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:09:04 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:09:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:09:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:09:52 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:09:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:09:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:10:00 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:10:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:10:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:10:27 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:10:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:10:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:11:02 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:11:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:11:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:25:26 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:25:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:25:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:27:31 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:27:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:27:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:28:07 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:28:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:28:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:30:11 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:30:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:30:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:30:34 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:30:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:30:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:30:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u789522342/domains/ymhelpline.online/public_html/partials/_loginModal.php:1) in /home/u789522342/domains/ymhelpline.online/public_html/changePassword.php on line 22
+[13-May-2021 05:35:14 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:35:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:35:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:35:38 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:35:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:35:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:36:01 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:36:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:36:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[13-May-2021 05:37:32 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/editProfile.php on line 10
+[13-May-2021 05:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/u789522342/domains/ymhelpline.online/public_html/editProfile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u789522342/domains/ymhelpline.online/public_html/editProfile.php on line 12
+[13-May-2021 05:37:50 UTC] PHP Notice:  Undefined variable: user in /home/u789522342/domains/ymhelpline.online/public_html/editProfile.php on line 10
+[13-May-2021 05:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on boolean in /home/u789522342/domains/ymhelpline.online/public_html/editProfile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u789522342/domains/ymhelpline.online/public_html/editProfile.php on line 12
+[13-May-2021 05:42:22 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:42:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[13-May-2021 05:42:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
+[14-May-2021 07:41:14 UTC] PHP Notice:  Undefined variable: conn in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[14-May-2021 07:41:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 26
+[14-May-2021 07:41:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/u789522342/domains/ymhelpline.online/public_html/partials/_menubar.php on line 28
